@@ -16,10 +16,10 @@ import csv # output writing
 
 ## import model domain
 coast = np.loadtxt(
-'C:\Users\matt\Documents\umd\spring_2014\MEES616\class_20140306\llbounds.csv',
+'llbounds.csv',
 delimiter=',')
 start = np.loadtxt(
-'C:\Users\matt\Documents\umd\spring_2014\MEES616\class_20140306\para10000002.csv',
+'para10000002.csv',
 delimiter=',')
 
 
