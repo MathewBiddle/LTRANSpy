@@ -7,7 +7,6 @@ Created on Thu Apr 03 12:42:43 2014
 import numpy as np
 import matplotlib.pyplot as plt
 import csv # output writing
-#from haversine import haversine
 import haversine_mine
 import os
 import scipy.stats as stats
